@@ -35,5 +35,3 @@ In this task, you create a group account. Group accounts can include user accoun
 1. **Refresh** the page and ensure your group was created.
 
 1. Select the new group and review the **Members** and **Owners** information.
-
->**Note:** You may be managing a large number of groups. Does your organization have a plan for creating groups and adding members?
