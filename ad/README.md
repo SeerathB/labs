@@ -5,3 +5,4 @@ I created multiple users in active directory to mimic organizations.
 
 ![image0 (6)](https://github.com/user-attachments/assets/cf097b8d-5ccb-4e8f-a590-24f77dd0d81a)
 ![image1](https://github.com/user-attachments/assets/2ad0a03f-248c-4426-9fe0-6c8d91a9c45a)
+![image0 (7)](https://github.com/user-attachments/assets/bcaa4e4c-e4dd-4a3c-86de-c934a7c56528)
