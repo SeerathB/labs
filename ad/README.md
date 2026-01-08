@@ -1,6 +1,6 @@
 # Attaching Windows 11 to Windows Server Domain
 
-I created two VMs in VirtualBox, one with Windows Server 22 and the other with Windows 11. 
+I created two VMs in VirtualBox, one with Windows Server 22 and the other with Windows 11. I configured the Windows server ass the domain controller and attached windows 11 to this domain. I ran into several issues and was able to troubleshoot to make this home lab work.
 I created multiple users in active directory to mimic organizations.
 
 ![image0 (6)](https://github.com/user-attachments/assets/cf097b8d-5ccb-4e8f-a590-24f77dd0d81a)
