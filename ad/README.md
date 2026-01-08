@@ -1,5 +1,3 @@
-# Active Directory Labs 
+# Attaching Windows 11 to Windows Server Domain
 
-## Lab 1
-
-In this lab we did x y z and here is the screenshot
+We created two VMs in VirtualBox, one with Windows Server 22 and the other with Windows 11. 
